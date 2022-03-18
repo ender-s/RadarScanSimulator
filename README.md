@@ -1,4 +1,4 @@
-# RadarScanGraphSimulator
+# RadarScanSimulator
  This program simulates the RF energy taken by the target by plotting energy-time graph for 4 different radar scan types: Conical, circular, helical, and raster.
 # GUI Library
  Swing
